@@ -10,7 +10,7 @@ Sample Run command: `robot -d results tests/github_api_test.robot`
 * Robot Framework 3.0
 * Chromedriver
 
-### Install Libraries
+### Install libraries
 Run this command on terminal: `pip install -r requirements.txt`
 
 ### Get chromedriver
