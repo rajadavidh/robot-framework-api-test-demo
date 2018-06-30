@@ -4,14 +4,19 @@
 1. Verify github usernames
 2. Verify displayed emoji
 
-Sample Run command:
-
-` robot -d results tests/github_api_test.robot `
+Sample Run command: `robot -d results tests/github_api_test.robot`
 
 ### Required libraries:
-Before running the script, you need to install Robot Framework 3.0
+* Robot Framework 3.0
+* Chromedriver
 
-or run this command on terminal: ` pip install -r requirements.txt `
+### Install Libraries
+Run this command on terminal: `pip install -r requirements.txt`
+
+### Get chromedriver
+Download it here: http://chromedriver.chromium.org/downloads
+
+Add it inside the project directory
 
 ### Other API test cases: 
 https://github.com/bulkan/robotframework-requests/blob/master/tests/testcase.txt
