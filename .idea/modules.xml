@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../robot-framework-api-test-demo/.idea/api-test.iml" filepath="$PROJECT_DIR$/../robot-framework-api-test-demo/.idea/api-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/robot-framework-api-test-demo.iml" filepath="$PROJECT_DIR$/.idea/robot-framework-api-test-demo.iml" />
     </modules>
   </component>
 </project>
