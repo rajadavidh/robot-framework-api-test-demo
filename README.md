@@ -18,5 +18,7 @@ Download it here: http://chromedriver.chromium.org/downloads
 
 Add it inside the project directory
 
+On MacOSX, add the chromedriver on `/usr/local/bin`
+
 ### Other API test cases: 
 https://github.com/bulkan/robotframework-requests/blob/master/tests/testcase.txt
